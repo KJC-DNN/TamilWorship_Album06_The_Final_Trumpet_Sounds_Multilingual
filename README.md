@@ -2,7 +2,7 @@
 
 Multilingual Christian worship songs (Tamil original + Pashto, Bengali, Urdu, Nepali, Sinhala translations). Full lyrics for 6 songs based on Bible verses.
 
-# Bengali: অ্যালবাম ৬ – চূড়ান্ত তুরী বাজে
+# Bengali: চূড়ান্ত তুরী বাজে - অ্যালবাম ৬
 
 Song-1: যতদিন আমি বেঁচে আছি
 
